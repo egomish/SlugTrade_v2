@@ -637,13 +637,6 @@ input[type=submit]:hover {
   color: #333;
 }
 
-.steps-item-step {
-  font-family: 'Archivo Black', sans-serif;
-  font-weight: 900;
-  font-size: 30px;
-  text-align: center;
-}
-
 .categories-icons-wrapper {
   display: flex;
   align-items: center;
